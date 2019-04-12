@@ -1,0 +1,8 @@
+001 Cairo Alexandria Limo round-trip multi-stop 12/12 12:00 500 1
+003 Alexandria Damanhour Bus one-way one-stop 12/5 15:30 300 29
+007 Cairo Giza Bus round-trip one-stop 1/1 21:00 400 29
+002 Giza Alexandria Mini-Bus one-way no-stop 10/8 22:00 250 14
+006 Damanhour Cairo Limo one-way multi-stop 9/11 9:30 350 6
+005 Giza Damanhour Bus round-trip no-stop 4/4 5:00 300 30
+008 Cairo Alexandria Limo one-way multi-stop 3/3 3:00 600 7
+009 Alexandria Giza Mini-Bus one-way one-stop 22/2 2:00 200 14

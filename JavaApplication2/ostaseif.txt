@@ -1,0 +1,2 @@
+002 Tokyo Rio Bus round-trip no-stop 19/9 3:00
+006 Damanhour Cairo Limo one-way multi-stop 9/11 9:30

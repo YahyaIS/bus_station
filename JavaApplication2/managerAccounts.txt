@@ -1,0 +1,2 @@
+seifmanager 0000
+gamd 4444
